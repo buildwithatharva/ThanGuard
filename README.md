@@ -1,6 +1,4 @@
 # ThanGuard
-# MachGen
-
 ## Predictive Maintenance & Failure Impact Analysis
 
 ### Problem
